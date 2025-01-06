@@ -3,7 +3,7 @@
 
 ---
 name: xingzheng-zigen
-version: "0.1.3"
+version: "0.3.0"
 use_preset_vocabulary: false
 ...
 
@@ -12,7 +12,7 @@ use_preset_vocabulary: false
 一	ab
 臣	ja
 至	js
-展	jn
+旡	jn
 牙	jd
 戊	jv
 七	jo
@@ -26,6 +26,7 @@ use_preset_vocabulary: false
 丰	wd
 三	wo
 馬	wp
+耒	wi
 之	ha
 冖	hh
 穴	hu
@@ -76,6 +77,8 @@ use_preset_vocabulary: false
 烏	nk
 𠂊	nb
 夕	ne
+勿	nx
+龜	nf
 廿	ca
 其	cw
 甘	cs
@@ -83,6 +86,7 @@ use_preset_vocabulary: false
 艹	cd
 十	co
 㐄	ct
+華	ck
 上	da
 虎	dj
 齒	du
@@ -251,4 +255,4 @@ use_preset_vocabulary: false
 齊	es
 丩	gx
 冊	yc
-獸	nt
+𠮥	nt
