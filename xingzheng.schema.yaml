@@ -4,7 +4,7 @@
 schema:
     schema_id: xingzheng
     name: 新郑输入法
-    version: "0.1"
+    version: "0.2"
     author:
         - 陈林 <1chen0bryan@gmail.com>
     dependencies:
@@ -56,7 +56,8 @@ speller:
     auto_select_unique_candidate: true
 
 translator:
-    dictionary: xingzheng
+    dictionary: xingzheng-ft # 繁體字典
+    #dictionary: xingzheng-jt # 简体字典
     enable_user_dict: false
     max_phrase_length: 5
     preedit_format:
